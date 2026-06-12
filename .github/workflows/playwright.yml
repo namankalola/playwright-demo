@@ -23,7 +23,7 @@ jobs:
     - name: Run Cucumber tests on Azure Playwright
       env:
         PLAYWRIGHT_SERVICE_URL: ${{vars.PLAYWRIGHT_SERVICE_URL}}
-      run: npx playwright test --config=playwright.service.config.js --workers=2
+      run: npm run cucumber
     - uses: actions/upload-artifact@v4
       if: ${{ !cancelled() }}
       with:
