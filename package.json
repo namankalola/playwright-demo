@@ -4,6 +4,7 @@
   "main": "index.js",
   "scripts": {
     "regression": "npx playwright test",
+    "cucumber": "cucumber-js \"features/**/*.feature\" --require \"features/stepdefinitions/**/*.js\" --format progress --format html:cucumber-report.html",
     "webTest": "npx playwright test --grep @Web --reporter=line,allure-playwright",
     "webTest:chromium": "npx playwright test --grep @Web --project=chromium --reporter=line,allure-playwright",
     "webTest:firefox": "npx playwright test --grep @Web --project=firefox --reporter=line,allure-playwright",
