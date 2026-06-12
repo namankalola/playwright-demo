@@ -1,0 +1,9 @@
+3
+Product added to cart : ZARA COAT 3 with price : $ 11500
+Product unit price in cart :  MRP $ 11500
+Country dropdown options count : 2
+Selected country :  India
+Order ID : 6a29342317ee3e78bacd9e4b
+Order ID found in Order History : 6a29342317ee3e78bacd9e4b
+OrderId is matching in Order Details : 6a29342317ee3e78bacd9e4b
+Order ID in Order Details page : 6a29342317ee3e78bacd9e4b

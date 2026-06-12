@@ -1,0 +1,10 @@
+Let's Shop
+[ 'ADIDAS ORIGINAL', 'ZARA COAT 3', 'iphone 13 pro' ]
+3
+Product added to cart : ZARA COAT 3 with price : $ 11500
+Product unit price in cart :  MRP $ 11500
+Country dropdown options count : 2
+Selected country :  India
+Order ID : 6a292da117ee3e78bacd76f4
+Order ID found in Order History : 6a292da117ee3e78bacd76f4
+OrderId is matching in Order Details : 6a292da117ee3e78bacd76f4

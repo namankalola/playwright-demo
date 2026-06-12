@@ -1,0 +1,9 @@
+3
+Product added to cart : IPHONE 13 PRO with price : $ 55000
+Product unit price in cart :  MRP $ 55000
+Country dropdown options count : 2
+Selected country :  India
+Order ID : 6a292b0c17ee3e78bacd6ac8
+Order ID found in Order History : 6a292b0c17ee3e78bacd6ac8
+OrderId is matching in Order Details : 6a292b0c17ee3e78bacd6ac8
+Order ID in Order Details page : 6a292b0c17ee3e78bacd6ac8
