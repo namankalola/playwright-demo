@@ -44,5 +44,6 @@ Feature: Ecommerce Validations
 
         Examples:
             | username            | password      |
-            | wronguser@gmail.com | wrongpassword |
-            | wronguser@gmail.com | wrongpassword |
+            | 1wronguser@gmail.com | wrongpassword |
+            | 2wronguser@gmail.com | wrongpassword |
+            | 3wronguser@gmail.com | wrongpassword |
