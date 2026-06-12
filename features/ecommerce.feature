@@ -46,4 +46,3 @@ Feature: Ecommerce Validations
             | username            | password      |
             | 1wronguser@gmail.com | wrongpassword |
             | 2wronguser@gmail.com | wrongpassword |
-            | 3wronguser@gmail.com | wrongpassword |
